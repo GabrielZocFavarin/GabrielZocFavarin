@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p> Olá, sou Gabriel Favarin, <br>
-tenho 20 anos e atualmente sou análista de dados na Ricci Máquinas. Sou um desenvolvedor em aprendizagem, afinal estou cursando Análise e Desenvolvimento de Sistemas pela FATEC de Presidente Prudente.</p>
+tenho 20 anos e atualmente sou análista de dados na Ricci Máquinas. <br>
+Sou um desenvolvedor em aprendizagem, afinal estou cursando Análise e Desenvolvimento de Sistemas pela FATEC de Presidente Prudente.</p>
