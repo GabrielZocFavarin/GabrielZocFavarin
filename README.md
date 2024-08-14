@@ -1,8 +1,15 @@
 ## GABRIEL ZOCCARATTO FAVARIN
 
-<p> Olá, sou Gabriel Favarin, <br>
-tenho 20 anos e atualmente sou análista de dados na Ricci Máquinas. <br>
-Sou um desenvolvedor em aprendizagem, afinal estou cursando Análise e Desenvolvimento de Sistemas pela FATEC de Presidente Prudente.</p>
+<p>  Tenho 20 anos, nunca havia sequer tentado desenvolver algo anterior a faculdade, hoje é aquilo do qual faço melhor. Estou cursando meu último semestre em <strong> Análise e Desenvolvimento de Sistemas </strong> pela FATEC de Presidente Prudente. Fiz iniciação científica na área de Redes de Computadores e Sistemas Operacionais, orientado pelo Prof. Rodrigo Vilela da Rocha. Também realizei estudos e aprendizados nas área de desenvolvimento web e análise de dados.
+</p> <br>
+
+<h3> Skills </h3>
+<br>
+<p> Linguagens de Programação - Python, C#, Javascript, React, Node (Aprendendo) </p> <br>
+<p> Banco de Dados - MySQL, MongoDB </p> <br>
+<p> Ferramentas Adicionais - Power Bi, Docker, Azure (Aprendendo) </p> <br>
+
+  
 
 
 
