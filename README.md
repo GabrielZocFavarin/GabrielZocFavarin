@@ -11,4 +11,4 @@ Sou um desenvolvedor em aprendizagem, afinal estou cursando Análise e Desenvolv
 
 ## "O mundo está cheio de pessoas talentosas que fracassaram. Talento não é tão importante. O que realmente importa é o quão dedicado você é ao seu ofício. Ser disciplinado é uma coisa, mas ser dedicado é um jogo diferente." - Cristiano Ronaldo.
 
-<img src="https://pin.it/4WHFGlUOo">
+<img src="![image](https://github.com/user-attachments/assets/215f05e0-f70b-49e8-bc71-2f1b7a02e868)">
