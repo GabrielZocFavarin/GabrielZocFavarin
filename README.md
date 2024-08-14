@@ -4,7 +4,6 @@
 </p> <br>
 
 <h3> Skills </h3>
-<br>
 <p> Linguagens de Programação - Python, C#, Javascript, React, Node (Aprendendo) </p> <br>
 <p> Banco de Dados - MySQL, MongoDB </p> <br>
 <p> Ferramentas Adicionais - Power Bi, Docker, Azure (Aprendendo) </p> <br>
