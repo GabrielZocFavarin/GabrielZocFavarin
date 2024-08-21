@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/2cfcfe22-ca78-46c4-a5e2-db238632d844"> <br> <br>
 
-<p>  Tenho 20 anos, nunca havia sequer tentado desenvolver algo anterior a faculdade, hoje é aquilo do qual faço melhor. Estou cursando meu último semestre em <strong> Análise e Desenvolvimento de Sistemas </strong> pela FATEC de Presidente Prudente. Fiz iniciação científica na área de Redes de Computadores e Sistemas Operacionais, orientado pelo Prof. Rodrigo Vilela da Rocha. Também realizei estudos e aprendizados nas área de desenvolvimento web e análise de dados.
+<p style="text-align: center">  Tenho 20 anos, nunca havia sequer tentado desenvolver algo anterior a faculdade, hoje é aquilo do qual faço melhor. Estou cursando meu último semestre em <strong> Análise e Desenvolvimento de Sistemas </strong> pela FATEC de Presidente Prudente. Fiz iniciação científica na área de Redes de Computadores e Sistemas Operacionais, orientado pelo Prof. Rodrigo Vilela da Rocha. Também realizei estudos e aprendizados nas área de desenvolvimento web e análise de dados.
 </p> <br>
 
 <div align="left">
