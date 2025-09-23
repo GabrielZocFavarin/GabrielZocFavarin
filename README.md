@@ -1,4 +1,4 @@
-<p style="text-align: center">  Tenho 20 anos, nunca havia sequer tentado desenvolver algo anterior a faculdade, hoje é aquilo do qual faço melhor. Estou cursando meu último semestre em <strong> Análise e Desenvolvimento de Sistemas </strong> pela FATEC de Presidente Prudente. Fiz iniciação científica na área de Redes de Computadores e Sistemas Operacionais, orientado pelo Prof. Rodrigo Vilela da Rocha. Também realizei estudos e aprendizados nas área de desenvolvimento web e análise de dados.
+<p style="text-align: center">  Apaixonado por desenvolvimento de todo tipo de solução, sou impulsionado a me tornar cada vez melhor em prol de me tornar mais completo. Hoje sou Analista de Sistemas (C#) e atuo como Analista de Dados (PJ). Meu objetivo na área de dados é simples: Me tornar o mais eficiênte e habilidoso Engenheiro de Dados. Só assim "minha pipeline" de vida estará completa. 
 </p> <br>
 
 <div align="center">
