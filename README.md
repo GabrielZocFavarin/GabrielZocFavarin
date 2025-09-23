@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/2cfcfe22-ca78-46c4-a5e2-db238632d844"> <br> <br>
-
 <p style="text-align: center">  Tenho 20 anos, nunca havia sequer tentado desenvolver algo anterior a faculdade, hoje é aquilo do qual faço melhor. Estou cursando meu último semestre em <strong> Análise e Desenvolvimento de Sistemas </strong> pela FATEC de Presidente Prudente. Fiz iniciação científica na área de Redes de Computadores e Sistemas Operacionais, orientado pelo Prof. Rodrigo Vilela da Rocha. Também realizei estudos e aprendizados nas área de desenvolvimento web e análise de dados.
 </p> <br>
 
@@ -39,6 +37,3 @@
 ###
 ###
 
-## "O mundo está cheio de pessoas talentosas que fracassaram. Talento não é tão importante. O que realmente importa é o quão dedicado você é ao seu ofício. Ser disciplinado é uma coisa, mas ser dedicado é um jogo diferente." - Cristiano Ronaldo.
-
-<img src="https://64.media.tumblr.com/b70742753afe83a15e42fa4a6e1d148a/tumblr_paok6x6OxZ1uj64b5o7_1280.pnj">
