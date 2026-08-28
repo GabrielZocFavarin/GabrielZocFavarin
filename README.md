@@ -38,10 +38,10 @@ Meu objetivo é unir minha experiência acadêmica em **Banco de Dados e Ciênci
 ### ⭐ Conhecimento Profundo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,python,docker,excel" />
+  <img src="https://skillicons.dev/icons?i=mysql,python,docker,excel,n8n,ai,git" />
 </p>
 
-**MySQL • Python • Power BI • Excel • Docker • n8n • Ferramentas de IA**
+**MySQL • Python • Power BI • Excel • Docker • n8n • Ferramentas de IA • Git/Github**
 
 ---
 
